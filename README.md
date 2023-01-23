@@ -1,4 +1,4 @@
-# News App
+# Products Flutter Website
 
 Flutter project to use custom widgets to make flutter web close to native websites with care about SEO features
 
@@ -39,5 +39,7 @@ This app is using Dummy API to fetch data from the server and display on the scr
 - Custom icons to reduce size of webiste
 - Drop zone to put on an image
 
+
+> **This Website isn't responsive yet , so use your Desktop Please !**
 
 ---
